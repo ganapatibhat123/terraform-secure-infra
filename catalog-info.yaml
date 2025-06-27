@@ -10,10 +10,10 @@ metadata:
     - infrastructure
     - github-actions
   annotations:
-    github.com/project-slug: ramannkhanna2/terraform-secure-infra-23
+    github.com/project-slug: ganapatibhat123/terraform-secure-infra
     backstage.io/techdocs-ref: dir:.
     # Enables GitHub Actions plugin integration
-    github.com/actions: ramannkhanna2/terraform-secure-infra-23
+    github.com/actions: ganapatibhat123/terraform-secure-infra
 spec:
   type: service
   lifecycle: experimental
